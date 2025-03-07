@@ -5,7 +5,7 @@ An iOS application built with **UIKit** that allows users to input a word and ch
 ---  
 
 ## 📖 About the Project  
-This project was developed during a **Live Coding user interview** at one of the top private banking companies in Indonesia. It was my first experience with **live coding**, where I learned a lot by starting a project from scratch under a time constraint to solve the **palindrome input challenge** using **UIKit**.  
+This project was developed during a **Live Coding** user interview at one of the top private banking companies in Indonesia. It was my first experience with **live coding**, where I learned a lot by starting a project from scratch under a time constraint to solve the **palindrome input challenge** using **UIKit**.  
 
 ---  
 
