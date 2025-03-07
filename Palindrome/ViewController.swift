@@ -12,7 +12,7 @@ class ViewController: UIViewController {
     let textField: UITextField = {
         let text = UITextField()
         text.placeholder = "Input words:"
-        text.borderStyle = .roundedRect  // Tambahkan border agar terlihat lebih baik
+        text.borderStyle = .roundedRect 
         text.translatesAutoresizingMaskIntoConstraints = false
         return text
     }()
@@ -27,7 +27,7 @@ class ViewController: UIViewController {
     
     let checkButton: UIButton = {
         let button = UIButton(type: .system)
-        button.setTitle("Check Palindrome", for: .normal) // Tambahkan teks tombol
+        button.setTitle("Check Palindrome", for: .normal) 
         button.addTarget(ViewController.self, action: #selector(checkPalindrome), for: .touchUpInside)
         button.translatesAutoresizingMaskIntoConstraints = false
         return button
