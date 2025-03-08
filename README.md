@@ -1,6 +1,6 @@
 # Palindrome Checker  
 
-An iOS application built with **UIKit** that allows users to input a word and check whether it’s a palindrome.  
+An iOS application built with **UIKit** that allows users to input a word and check whether it’s a palindrome or not.  
 
 ---  
 
